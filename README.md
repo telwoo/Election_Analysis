@@ -14,11 +14,13 @@ A Colorado Board of Elections employee has given the task to compete the electio
 - Software: Python 3.10.5, Visual Code, 1.38.1
 
 ## Election Audit Results
-
-
-
-## Election Summary
 The analysis of the eleciton show that:
+- Overall, there were 369,711 total votes in this congressional election.
+- The folllowing counties and their percentage of total votes were:
+  - Jefferson with 10.5% of total votes and 38,855 number of votes.
+  - Denver with 82.8% of total votes and 306,055 number of votes.
+  - Arapahoe with 6.7% of total votes and 24,801 number of votes.
+- "Denver" had the largest number of votes.
 - The candidates were:
   - Charles  Casper Stockham
   - Diana DeGette
@@ -28,7 +30,15 @@ The analysis of the eleciton show that:
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-  - Diana DeGette, who received the winning percentage of 73.8% of the vote and 272,892 number of total votes.
+  - "Diana DeGette", who received the winning percentage of 73.8% of the vote and 272,892 number of total votes. Diana DeGette was the winner of the overall election.
+
+Below is image of overall results:
+![Screen Shot 2022-06-30 at 2 36 31 PM](https://user-images.githubusercontent.com/106715923/176753076-b8aa1d8a-dbbf-45c5-9e8c-533b98b2246d.png)
+
+
+
+## Election Summary
+
 
 
 
