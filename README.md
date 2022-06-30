@@ -32,8 +32,7 @@ The analysis of the eleciton show that:
 - The winner of the election was:
   - "Diana DeGette", who received the winning percentage of 73.8% of the vote and 272,892 number of total votes. Diana DeGette was the winner of the overall election.
 
-Below is image of overall results:
-
+Below is the overall results:
 ![Screen Shot 2022-06-30 at 2 36 31 PM](https://user-images.githubusercontent.com/106715923/176753076-b8aa1d8a-dbbf-45c5-9e8c-533b98b2246d.png)
 
 
@@ -41,10 +40,11 @@ Below is the code used to run analysis for County Votes and Largest County:
 ![Screen Shot 2022-06-30 at 2 39 35 PM](https://user-images.githubusercontent.com/106715923/176753497-cbb3abe4-c5c6-4fbb-ad75-f056f0a9d86c.png)
 
 
-
-## Election Summary
-
-
+Below is the code used to run analysis for Winning Candidate and candidate percentages:
+![Screen Shot 2022-06-30 at 2 41 06 PM](https://user-images.githubusercontent.com/106715923/176753937-e09b5b83-893b-45f7-8eb0-fd69966f3025.png)
 
 
-
+## Election Audit Summary
+After reviewing the results from the election, one can conclude that using Python to outline and audit election results was a great decision! Running the details of any election through this system would gain the election commission futher needs to focus on other marketing for an eleciton instead of worrying about how the votes will be analyzed. There are a couple different ways in which this script written in Python can be modified to be used for other elections:
+  - Update the "Largest County Turnout" to show the "Least County Turnout". That way, the election commission would be able to determine how they can market to have the county produce more votes.
+  - Add in the "Cty" within the election. This would be beneficial, in case the election commission wanted to pass this script on to a state-wide count.
