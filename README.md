@@ -1,7 +1,7 @@
-# Election_Analysis
+# PyPoll Challenge: Election_Analysis
 
-## Project Overview
-A Colorado Board of Elections employee has given the task to compete the election audit of a recent local congressional election. The overall goal is to outline how the eleciton results were and to outline the following tasks:
+## Overview of Election Audit
+A Colorado Board of Elections were being held and underway! We were tasked with completing an election audit for the local congressional election. The overall goal is to outline how the eleciton results were and to outline the following tasks:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -20,7 +20,7 @@ The analysis of the eleciton show that:
   - Jefferson with 10.5% of total votes and 38,855 number of votes.
   - Denver with 82.8% of total votes and 306,055 number of votes.
   - Arapahoe with 6.7% of total votes and 24,801 number of votes.
-- 'Denver' had the largest number of votes.
+- **Denver** had the largest number of votes.
 - The candidates were:
   - Charles  Casper Stockham
   - Diana DeGette
