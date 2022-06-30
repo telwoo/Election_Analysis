@@ -33,7 +33,12 @@ The analysis of the eleciton show that:
   - "Diana DeGette", who received the winning percentage of 73.8% of the vote and 272,892 number of total votes. Diana DeGette was the winner of the overall election.
 
 Below is image of overall results:
+
 ![Screen Shot 2022-06-30 at 2 36 31 PM](https://user-images.githubusercontent.com/106715923/176753076-b8aa1d8a-dbbf-45c5-9e8c-533b98b2246d.png)
+
+
+Below is the code used to run analysis for County Votes and Largest County:
+![Screen Shot 2022-06-30 at 2 39 35 PM](https://user-images.githubusercontent.com/106715923/176753497-cbb3abe4-c5c6-4fbb-ad75-f056f0a9d86c.png)
 
 
 
