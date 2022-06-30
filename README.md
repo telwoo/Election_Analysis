@@ -30,7 +30,7 @@ The analysis of the eleciton show that:
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-  - 'Diana DeGette', who received the winning percentage of 73.8% of the vote and 272,892 number of total votes. Diana DeGette was the winner of the overall election.
+  - **Diana DeGette**, who received the winning percentage of 73.8% of the vote and 272,892 number of total votes. Diana DeGette was the winner of the overall election.
 
 Below is the overall results:
 
